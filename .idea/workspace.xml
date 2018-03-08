@@ -1,8 +1,300 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b39ec94-1a25-4d48-9f0b-60ac25be28f3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Android-Library-master.zip" afterPath="" />
+    <list default="true" id="6b39ec94-1a25-4d48-9f0b-60ac25be28f3" name="Default" comment="Renamed folder">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/.gitignore" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/.idea/.name" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/.idea/.name" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/.idea/compiler.xml" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/.idea/compiler.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/.idea/copyright/profiles_settings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/.idea/encodings.xml" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/.idea/encodings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/.idea/gradle.xml" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/.idea/gradle.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/.idea/misc.xml" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/.idea/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/.idea/modules.xml" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/.idea/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/.idea/runConfigurations.xml" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/.idea/runConfigurations.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/LICENSE" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/README.md" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/.gitignore" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/build.gradle" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/build.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/proguard-rules.pro" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/proguard-rules.pro" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/src/androidTest/java/com/stretchsense/newstretchsenseproject/ApplicationTest.java" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/src/androidTest/java/com/stretchsense/newstretchsenseproject/ApplicationTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/src/main/AndroidManifest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/src/main/java/com/stretchsense/newstretchsenseproject/MainActivity.java" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/src/main/java/com/stretchsense/newstretchsenseproject/MainActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/src/main/java/com/stretchsense/newstretchsenseproject/ble/Constants.java" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/src/main/java/com/stretchsense/newstretchsenseproject/ble/Constants.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/src/main/java/com/stretchsense/newstretchsenseproject/ble/StretchSenseLibraryManager.java" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/src/main/java/com/stretchsense/newstretchsenseproject/ble/StretchSenseLibraryManager.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/src/main/java/com/stretchsense/newstretchsenseproject/ble/StretchSenseLibraryQueueExecutor.java" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/src/main/java/com/stretchsense/newstretchsenseproject/ble/StretchSenseLibraryQueueExecutor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/src/main/java/com/stretchsense/newstretchsenseproject/ble/StretchSensePeripheralAvailable.java" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/src/main/java/com/stretchsense/newstretchsenseproject/ble/StretchSensePeripheralAvailable.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/src/main/java/com/stretchsense/newstretchsenseproject/ble/StretchSensePeripheralConnected.java" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/src/main/java/com/stretchsense/newstretchsenseproject/ble/StretchSensePeripheralConnected.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/src/main/res/layout/activity_main.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/src/main/res/values-w820dp/dimens.xml" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/src/main/res/values-w820dp/dimens.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/src/main/res/values/colors.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/src/main/res/values/dimens.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/src/main/res/values/strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/src/main/res/values/styles.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/app/src/test/java/com/stretchsense/newstretchsenseproject/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/app/src/test/java/com/stretchsense/newstretchsenseproject/ExampleUnitTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/build.gradle" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/build.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/gradle.properties" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/gradle.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/gradlew" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/gradlew" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/gradlew.bat" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/gradlew.bat" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Empty Project/MyApplication/settings.gradle" afterPath="$PROJECT_DIR$/stretchsense/Empty Project/MyApplication/settings.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/.gitignore" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/.idea/.name" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/.idea/.name" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/.idea/compiler.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/.idea/compiler.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/.idea/copyright/profiles_settings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/.idea/encodings.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/.idea/encodings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/.idea/gradle.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/.idea/gradle.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/.idea/misc.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/.idea/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/.idea/modules.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/.idea/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/.idea/runConfigurations.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/.idea/runConfigurations.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/allclasses-frame.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/allclasses-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/allclasses-noframe.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/MainActivity.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/MainActivity.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/TableItem.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/TableItem.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/TableListAdapter.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/TableListAdapter.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/ble/StretchSenseLibraryManager.StretchSenseLibraryManagerListener.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/ble/StretchSenseLibraryManager.StretchSenseLibraryManagerListener.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/ble/StretchSenseLibraryManager.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/ble/StretchSenseLibraryManager.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/ble/StretchSenseLibraryQueueExecutor.ServiceAction.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/ble/StretchSenseLibraryQueueExecutor.ServiceAction.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/ble/StretchSenseLibraryQueueExecutor.StretchSenseLibraryQueueExecutorListener.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/ble/StretchSenseLibraryQueueExecutor.StretchSenseLibraryQueueExecutorListener.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/ble/StretchSenseLibraryQueueExecutor.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/ble/StretchSenseLibraryQueueExecutor.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/ble/StretchSensePeripheralAvailable.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/ble/StretchSensePeripheralAvailable.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/ble/StretchSensePeripheralConnected.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/ble/StretchSensePeripheralConnected.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/ble/package-frame.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/ble/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/ble/package-summary.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/ble/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/package-frame.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/package-summary.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/com/StretchSense/DemoMultiple/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/constant-values.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/constant-values.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/help-doc.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/help-doc.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/index.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/overview-frame.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/overview-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/overview-summary.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/overview-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/package-list" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/package-list" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/resources/background.gif" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/resources/background.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/resources/tab.gif" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/resources/tab.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/resources/titlebar.gif" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/resources/titlebar.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/resources/titlebar_end.gif" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/resources/titlebar_end.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/Docs/stylesheet.css" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/Docs/stylesheet.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/LICENSE" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/README.md" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/.gitignore" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/build.gradle" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/build.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/proguard-rules.pro" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/proguard-rules.pro" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/androidTest/java/com/StretchSense/DemoMultiple/ApplicationTest.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/androidTest/java/com/StretchSense/DemoMultiple/ApplicationTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/AndroidManifest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/java/com/StretchSense/DemoMultiple/MainActivity.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/java/com/StretchSense/DemoMultiple/MainActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/java/com/StretchSense/DemoMultiple/MyMenuListAdapter.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/java/com/StretchSense/DemoMultiple/MyMenuListAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/java/com/StretchSense/DemoMultiple/TableItem.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/java/com/StretchSense/DemoMultiple/TableItem.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/java/com/StretchSense/DemoMultiple/TableListAdapter.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/java/com/StretchSense/DemoMultiple/TableListAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/java/com/StretchSense/DemoMultiple/ble/Constants.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/java/com/StretchSense/DemoMultiple/ble/Constants.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/java/com/StretchSense/DemoMultiple/ble/StretchSenseLibraryManager.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/java/com/StretchSense/DemoMultiple/ble/StretchSenseLibraryManager.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/java/com/StretchSense/DemoMultiple/ble/StretchSenseLibraryQueueExecutor.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/java/com/StretchSense/DemoMultiple/ble/StretchSenseLibraryQueueExecutor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/java/com/StretchSense/DemoMultiple/ble/StretchSensePeripheralAvailable.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/java/com/StretchSense/DemoMultiple/ble/StretchSensePeripheralAvailable.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/java/com/StretchSense/DemoMultiple/ble/StretchSensePeripheralConnected.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/java/com/StretchSense/DemoMultiple/ble/StretchSensePeripheralConnected.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/res/layout/activity_main.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/res/layout/my_menu_list_item.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/res/layout/my_menu_list_item.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/res/values-w820dp/dimens.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/res/values-w820dp/dimens.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/res/values/colors.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/res/values/dimens.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/res/values/strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/res/values/styles.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/app/src/test/java/com/StretchSense/DemoMultiple/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/test/java/com/StretchSense/DemoMultiple/ExampleUnitTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/build.gradle" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/build.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/gradle.properties" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/gradle.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/gradlew" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/gradlew" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/gradlew.bat" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/gradlew.bat" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoMultiple/settings.gradle" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/settings.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/.gitignore" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/.idea/.name" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/.idea/.name" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/.idea/compiler.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/.idea/compiler.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/.idea/copyright/profiles_settings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/.idea/encodings.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/.idea/encodings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/.idea/gradle.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/.idea/gradle.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/.idea/misc.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/.idea/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/.idea/modules.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/.idea/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/.idea/runConfigurations.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/.idea/runConfigurations.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/allclasses-frame.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/allclasses-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/allclasses-noframe.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/MainActivity.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/MainActivity.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/ble/StretchSenseLibraryManager.StretchSenseLibraryManagerListener.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/ble/StretchSenseLibraryManager.StretchSenseLibraryManagerListener.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/ble/StretchSenseLibraryManager.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/ble/StretchSenseLibraryManager.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/ble/StretchSenseLibraryQueueExecutor.ServiceAction.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/ble/StretchSenseLibraryQueueExecutor.ServiceAction.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/ble/StretchSenseLibraryQueueExecutor.StretchSenseLibraryQueueExecutorListener.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/ble/StretchSenseLibraryQueueExecutor.StretchSenseLibraryQueueExecutorListener.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/ble/StretchSenseLibraryQueueExecutor.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/ble/StretchSenseLibraryQueueExecutor.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/ble/StretchSensePeripheralAvailable.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/ble/StretchSensePeripheralAvailable.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/ble/StretchSensePeripheralConnected.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/ble/StretchSensePeripheralConnected.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/ble/package-frame.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/ble/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/ble/package-summary.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/ble/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/package-frame.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/package-summary.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/com/stretchsense/demosingle/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/constant-values.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/constant-values.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/help-doc.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/help-doc.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/index.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/overview-frame.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/overview-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/overview-summary.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/overview-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/package-list" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/package-list" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/resources/background.gif" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/resources/background.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/resources/tab.gif" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/resources/tab.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/resources/titlebar.gif" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/resources/titlebar.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/resources/titlebar_end.gif" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/resources/titlebar_end.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/Docs/stylesheet.css" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/Docs/stylesheet.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/LICENSE" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/README.md" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/.gitignore" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/build.gradle" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/build.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/proguard-rules.pro" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/proguard-rules.pro" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/src/androidTest/java/com/stretchsense/demosingle/ApplicationTest.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/src/androidTest/java/com/stretchsense/demosingle/ApplicationTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/src/main/AndroidManifest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/src/main/java/com/stretchsense/demosingle/MainActivity.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/src/main/java/com/stretchsense/demosingle/MainActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/src/main/java/com/stretchsense/demosingle/ble/Constants.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/src/main/java/com/stretchsense/demosingle/ble/Constants.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/src/main/java/com/stretchsense/demosingle/ble/StretchSenseLibraryManager.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/src/main/java/com/stretchsense/demosingle/ble/StretchSenseLibraryManager.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/src/main/java/com/stretchsense/demosingle/ble/StretchSenseLibraryQueueExecutor.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/src/main/java/com/stretchsense/demosingle/ble/StretchSenseLibraryQueueExecutor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/src/main/java/com/stretchsense/demosingle/ble/StretchSensePeripheralAvailable.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/src/main/java/com/stretchsense/demosingle/ble/StretchSensePeripheralAvailable.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/src/main/java/com/stretchsense/demosingle/ble/StretchSensePeripheralConnected.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/src/main/java/com/stretchsense/demosingle/ble/StretchSensePeripheralConnected.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/src/main/res/layout/activity_main.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/src/main/res/values-w820dp/dimens.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/src/main/res/values-w820dp/dimens.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/src/main/res/values/colors.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/src/main/res/values/dimens.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/src/main/res/values/strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/src/main/res/values/styles.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/app/src/test/java/com/stretchsense/demosingle/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/app/src/test/java/com/stretchsense/demosingle/ExampleUnitTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/build.gradle" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/build.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/deprecated-list.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/deprecated-list.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/gradle.properties" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/gradle.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/gradlew" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/gradlew" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/gradlew.bat" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/gradlew.bat" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleAutomatic/settings.gradle" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleAutomatic/settings.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/.gitignore" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/.idea/.name" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/.idea/.name" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/.idea/compiler.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/.idea/compiler.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/.idea/copyright/profiles_settings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/.idea/encodings.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/.idea/encodings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/.idea/gradle.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/.idea/gradle.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/.idea/misc.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/.idea/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/.idea/modules.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/.idea/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/.idea/runConfigurations.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/.idea/runConfigurations.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/LICENSE" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/README.md" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/.gitignore" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/build.gradle" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/build.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/proguard-rules.pro" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/proguard-rules.pro" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/src/androidTest/java/com/stretchsense/demosinglemanually/ApplicationTest.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/androidTest/java/com/stretchsense/demosinglemanually/ApplicationTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/main/AndroidManifest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/src/main/java/com/stretchsense/demosinglemanually/MainActivity.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/main/java/com/stretchsense/demosinglemanually/MainActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/src/main/java/com/stretchsense/demosinglemanually/ble/Constants.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/main/java/com/stretchsense/demosinglemanually/ble/Constants.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/src/main/java/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryManager.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/main/java/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryManager.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/src/main/java/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryQueueExecutor.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/main/java/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryQueueExecutor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/src/main/java/com/stretchsense/demosinglemanually/ble/StretchSensePeripheralAvailable.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/main/java/com/stretchsense/demosinglemanually/ble/StretchSensePeripheralAvailable.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/src/main/java/com/stretchsense/demosinglemanually/ble/StretchSensePeripheralConnected.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/main/java/com/stretchsense/demosinglemanually/ble/StretchSensePeripheralConnected.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/main/res/layout/activity_main.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/src/main/res/values-w820dp/dimens.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/main/res/values-w820dp/dimens.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/main/res/values/colors.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/main/res/values/dimens.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/main/res/values/strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/main/res/values/styles.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/app/src/test/java/com/stretchsense/demosinglemanually/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/test/java/com/stretchsense/demosinglemanually/ExampleUnitTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/build.gradle" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/build.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/MainActivity.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/MainActivity.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryManager.StretchSenseLibraryManagerListener.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryManager.StretchSenseLibraryManagerListener.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryManager.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryManager.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryQueueExecutor.ServiceAction.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryQueueExecutor.ServiceAction.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryQueueExecutor.StretchSenseLibraryQueueExecutorListener.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryQueueExecutor.StretchSenseLibraryQueueExecutorListener.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryQueueExecutor.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryQueueExecutor.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/StretchSensePeripheralAvailable.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/StretchSensePeripheralAvailable.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/StretchSensePeripheralConnected.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/StretchSensePeripheralConnected.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/class-use/StretchSenseLibraryManager.StretchSenseLibraryManagerListener.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/class-use/StretchSenseLibraryManager.StretchSenseLibraryManagerListener.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/class-use/StretchSenseLibraryManager.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/class-use/StretchSenseLibraryManager.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/class-use/StretchSenseLibraryQueueExecutor.ServiceAction.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/class-use/StretchSenseLibraryQueueExecutor.ServiceAction.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/class-use/StretchSenseLibraryQueueExecutor.StretchSenseLibraryQueueExecutorListener.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/class-use/StretchSenseLibraryQueueExecutor.StretchSenseLibraryQueueExecutorListener.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/class-use/StretchSenseLibraryQueueExecutor.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/class-use/StretchSenseLibraryQueueExecutor.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/class-use/StretchSensePeripheralAvailable.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/class-use/StretchSensePeripheralAvailable.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/class-use/StretchSensePeripheralConnected.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/class-use/StretchSensePeripheralConnected.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/package-frame.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/package-summary.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/package-use.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/ble/package-use.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/class-use/MainActivity.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/class-use/MainActivity.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/package-frame.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/package-summary.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/package-use.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/com/stretchsense/demosinglemanually/package-use.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/allclasses-frame.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/allclasses-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/allclasses-noframe.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/MainActivity.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/MainActivity.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryManager.StretchSenseLibraryManagerListener.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryManager.StretchSenseLibraryManagerListener.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryManager.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryManager.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryQueueExecutor.ServiceAction.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryQueueExecutor.ServiceAction.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryQueueExecutor.StretchSenseLibraryQueueExecutorListener.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryQueueExecutor.StretchSenseLibraryQueueExecutorListener.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryQueueExecutor.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/StretchSenseLibraryQueueExecutor.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/StretchSensePeripheralAvailable.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/StretchSensePeripheralAvailable.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/StretchSensePeripheralConnected.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/StretchSensePeripheralConnected.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/class-use/StretchSenseLibraryManager.StretchSenseLibraryManagerListener.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/class-use/StretchSenseLibraryManager.StretchSenseLibraryManagerListener.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/class-use/StretchSenseLibraryManager.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/class-use/StretchSenseLibraryManager.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/class-use/StretchSenseLibraryQueueExecutor.ServiceAction.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/class-use/StretchSenseLibraryQueueExecutor.ServiceAction.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/class-use/StretchSenseLibraryQueueExecutor.StretchSenseLibraryQueueExecutorListener.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/class-use/StretchSenseLibraryQueueExecutor.StretchSenseLibraryQueueExecutorListener.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/class-use/StretchSenseLibraryQueueExecutor.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/class-use/StretchSenseLibraryQueueExecutor.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/class-use/StretchSensePeripheralAvailable.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/class-use/StretchSensePeripheralAvailable.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/class-use/StretchSensePeripheralConnected.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/class-use/StretchSensePeripheralConnected.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/package-frame.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/package-summary.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/package-use.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/ble/package-use.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/class-use/MainActivity.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/class-use/MainActivity.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/package-frame.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/package-summary.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/package-use.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/com/stretchsense/demosinglemanually/package-use.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/constant-values.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/constant-values.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/help-doc.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/help-doc.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/index.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/overview-frame.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/overview-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/overview-summary.html" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/overview-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/package-list" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/package-list" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/resources/background.gif" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/resources/background.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/resources/tab.gif" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/resources/tab.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/resources/titlebar.gif" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/resources/titlebar.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/resources/titlebar_end.gif" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/resources/titlebar_end.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/docs/stylesheet.css" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/docs/stylesheet.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/gradle.properties" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/gradle.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/gradlew" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/gradlew" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/gradlew.bat" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/gradlew.bat" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/resources/background.gif" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/resources/background.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/resources/tab.gif" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/resources/tab.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/resources/titlebar.gif" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/resources/titlebar.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/resources/titlebar_end.gif" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/resources/titlebar_end.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Examples/DemoSingleManually/settings.gradle" afterPath="$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/settings.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/LICENSE" afterPath="$PROJECT_DIR$/stretchsense/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Library/LICENSE" afterPath="$PROJECT_DIR$/stretchsense/Library/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Library/README.md" afterPath="$PROJECT_DIR$/stretchsense/Library/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Library/ble/Constants.java" afterPath="$PROJECT_DIR$/stretchsense/Library/ble/Constants.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Library/ble/StretchSenseLibraryManager.java" afterPath="$PROJECT_DIR$/stretchsense/Library/ble/StretchSenseLibraryManager.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Library/ble/StretchSenseLibraryQueueExecutor.java" afterPath="$PROJECT_DIR$/stretchsense/Library/ble/StretchSenseLibraryQueueExecutor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Library/ble/StretchSensePeripheralAvailable.java" afterPath="$PROJECT_DIR$/stretchsense/Library/ble/StretchSensePeripheralAvailable.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/Library/ble/StretchSensePeripheralConnected.java" afterPath="$PROJECT_DIR$/stretchsense/Library/ble/StretchSensePeripheralConnected.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/api/README.md" afterPath="$PROJECT_DIR$/stretchsense/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,6 +305,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -28,7 +323,7 @@
     <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -43,7 +338,20 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stretch-launcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stretch-launcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
@@ -66,6 +374,118 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -78,6 +498,89 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="stretch-launcher" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
       <envs />
       <method />
     </configuration>
@@ -153,17 +656,18 @@
     <frame x="260" y="20" width="1400" height="1000" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -180,8 +684,38 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Renamed folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renamed folder" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/stretch-launcher.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stretchsense/Examples/DemoMultiple/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stretchsense/Examples/DemoSingleManually/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
