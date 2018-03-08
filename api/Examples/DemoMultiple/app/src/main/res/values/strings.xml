@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoMultiple</string>
+    <string name="name">Name</string>
+    <string name="value">Value</string>
+    <string name="state">State</string>
+    <string name="autoconnect">AutoConnect</string>
+    <string name="valuesamplingtime">valueSamplingTime</string>
+    <string name="numberofthesensor">numberOfTheSensor</string>
+</resources>
